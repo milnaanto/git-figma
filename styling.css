@@ -1,0 +1,107 @@
+.login{
+    position: absolute;
+    width: 188px;
+    height: 56px;
+    left: 1155px;
+    top: 350px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 41px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.09em;
+    color: black
+}
+.welcome{
+    position: absolute;
+    width: 272px;
+    height: 30px;
+    left: 1155px;
+    top: 419px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 32px;
+    display: flex;
+    align-items: flex-end;
+    color: #47c2c7;
+}
+.Email {
+    position: absolute;
+width: 53px;
+height: 21px;
+left: 1193px;
+top: 527px;
+font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0.12em;
+color: #5f5f5f;
+}
+.Password {
+    position: absolute;
+width: 53px;
+height: 21px;
+left: 1193px;
+top: 600px;
+font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0.12em;
+color: #5f5f5f; 
+}
+.forgot{
+    position: absolute;
+width: 113px;
+height: 13px;
+left: 1444px;
+top: 695px;
+font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 13px;
+display: flex;
+align-items: flex-end;
+text-align: right;
+letter-spacing: 0.12em;
+color: #5f5f5f;
+}
+.rec {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 1200px;
+    top: 679px;
+    border: 1px solid#00c0f3;
+    box-sizing: border-box;
+}
+.remember{
+    position: absolute;
+width: 99px;
+height: 15px;
+left: 1220px;
+top: 673px;
+font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 13px;
+letter-spacing: 0.12em;
+color: #5f5f5f;
+}
+.rect2{
+    position: absolute;
+    width: 120px;
+    height: 49px;
+    left: 1157px;
+    top: 772px;
+    background-color: #00c0f3;
+}
